@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working in HandBuiltApps
+- 🌱 I’m currently learning a lot of stuff
+- 🤔 I’m looking for help with Home Automation with Home Assistant
+- 📫 How to reach me: ...
+  - [LinkedIn](https://in.linkedin.com/in/samuelrajan747)
+
 
 <!--
 **samuelrajan747/samuelrajan747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
